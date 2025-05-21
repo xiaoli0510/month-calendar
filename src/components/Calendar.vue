@@ -74,7 +74,7 @@ const getToday = computed(() => {
                 <div class="flex flex-row">
                     <template v-for="item1 in item">
                         <div class="inline-block text-xs my-2">
-                            <span class="leading-[40px] text-center text-xs relative inline-block mx-1.5 w-10 h-10"
+                            <span class="leading-[40px] text-center text-xs relative inline-block mx-1.5 w-10 h-10"                                                                                                                                             
                                 :class="{ 'active': typeof item1 === 'object' && getToday === item1.formatDate }">{{
                                     typeof
                                         item1 === 'object' ? item1.day : '' }}
