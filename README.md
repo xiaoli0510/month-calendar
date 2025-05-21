@@ -27,3 +27,6 @@ npm run dev
 ```sh
 npm run build
 ```
+
+示例：
+![PixPin_2025-05-21_18-04-50](https://github.com/user-attachments/assets/e8287dc2-7ff4-4198-a48d-dd718ff56b31)
